@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="?colorOnPrimary" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+    <item android:top="2dp" android:bottom="2dp" android:start="2dp" android:end="2dp">
+        <shape>
+            <solid android:color="?colorOnPrimary" />
+            <corners android:radius="28dp" />
+            <stroke
+                android:width="2dp"
+                android:color="?colorSecondaryContainer" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IPscam</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_historial">Historial</string>
+    <string name="title_ajustes">Ajustes</string>
+    <string name="eliminar_item_historial">Eliminar esta búsqueda</string>
+    <string name="numero_de_placa">Número de placa</string>
+    <string name="format_placa">ABC123</string>
+    <string name="buscar">Buscar</string>
+</resources>
